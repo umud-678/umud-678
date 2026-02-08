@@ -12,29 +12,26 @@
 
 <!-- Accent divider -->
 <p align="center">
-  <img src="https://img.shields.io/badge/-_________________________-3B82F6?style=for-the-badge" alt="divider" />
+  <img src="https://img.shields.io/badge/-______________________________-3B82F6?style=for-the-badge" alt="divider"/>
 </p>
 
-<!-- ---------- SOCIAL (LOGO) ---------- -->
+<!-- ---------- SOCIAL (LARGE LOGOS) ---------- -->
 <p align="center">
-  <!-- Email -->
   <a href="mailto:ganirarh@code.edu.az" title="Email">
-    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="36" />
+    <img src="https://skillicons.dev/icons?i=gmail" height="56" alt="Email"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- X / Twitter -->
-  <a href="https://x.com/Umud_678" target="_blank" title="X (Twitter)">
-    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="36" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://x.com/Umud_678" title="X (Twitter)">
+    <img src="https://skillicons.dev/icons?i=twitter" height="56" alt="X (Twitter)"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- GitHub -->
-  <a href="https://github.com/umud-678" target="_blank" title="GitHub">
-    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="36" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/umud-678" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" height="56" alt="GitHub"/>
   </a>
-  &nbsp;&nbsp;&nbsp;
-  <!-- LinkedIn (istəsən linkini dəyiş) -->
-  <a href="https://linkedin.com/in/" target="_blank" title="LinkedIn">
-    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" />
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn URL-ni öz profilinlə əvəz et -->
+  <a href="https://linkedin.com/in/" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="56" alt="LinkedIn"/>
   </a>
 </p>
 
@@ -53,7 +50,7 @@ Result‑driven developer with proven **international logistics**, **cross‑bor
 
 <!-- ---------- PALETTE NOTE (optional) ---------- -->
 ## <span style="color:#3B82F6;">Palette</span>
-**Electric Blue** vurğuları (#3B82F6) + **Cyan** (#22D3EE) aksentləri — qaranlıq tema ilə yüksək kontrast və modern görünüş.
+**Electric Blue** (#3B82F6) vurğuları + **Cyan** (#22D3EE) aksentləri — qaranlıq tema ilə yüksək kontrast və modern görünüş.
 
 ---
 
@@ -67,8 +64,13 @@ Result‑driven developer with proven **international logistics**, **cross‑bor
 **DevOps & Tools:** Docker, Git/GitHub, GitHub Actions (CI/CD), Postman  
 **AI & Productivity:** OpenAI, GitHub Copilot, Claude (prompting, test & doc generation)
 
-<p>
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,tailwind,html,css,nodejs,express,sqlserver,mongodb,docker,git,github,postman" height="32" />
+<!-- Large, clean icon rows -->
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,tailwind" height="46" alt="Tech icons row 1"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=html,css,nodejs,express,sqlserver,mongodb" height="46" alt="Tech icons row 2"/>
+  <br/>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,postman" height="46" alt="Tech icons row 3"/>
 </p>
 
 ---
@@ -119,17 +121,49 @@ Result‑driven developer with proven **international logistics**, **cross‑bor
 
 ---
 
-<!-- ---------- STATS ---------- -->
+<!-- ---------- STATS (colorful themes) ---------- -->
 ## <span style="color:#3B82F6;">Stats</span>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umud-678&show_icons=true&theme=github_dark_dimmed&hide_title=false" alt="GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umud-678&show_icons=true&theme=tokyonight&hide_title=false" alt="GitHub Stats"/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=github_dark_dimmed" alt="Top languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=tokyonight" alt="Top Languages"/>
   <br/>
-  <img src="https://streak-stats.demolab.com/?user=umud-678&theme=github-dark-blue" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=umud-678&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+---
+
+<!-- ---------- ACTIVITY GRAPH (optional, colorful) ---------- -->
+## <span style="color:#3B82F6;">Contribution Graph</span>
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umud-678&theme=tokyo-night" alt="Contribution Graph"/>
 </p>
 
 ---
 
 <!-- ---------- CONTACT / CTA ---------- -->
+## <span style="color:#3B82F6;">Let’s Collaborate</span>
+
+Logistics tech, support tooling, internal platforms, agentic automations — açığam.  
+Yaz: <a href="mailto:ganirarh@code.edu.az">ganirarh@code.edu.az</a> · <a href="https://x.com/Umud_678">X (Twitter)</a> · <a href="https://github.com/umud-678">GitHub</a>
+
+---
+
+<!-- ==============================
+           SETTINGS (Optional)
+  İstəsən bu hissəni saxlamaya da bilərsən.
+================================== -->
+<!--
+Rənglər:
+- Primary: #3B82F6 (Electric Blue)
+- Accent:  #22D3EE (Cyan)
+
+Loqo ölçüləri:
+- Sosial ikonlar: height="56" (lazım olsa 64 edə bilərsən)
+- Stack ikonları: height="46–48"
+
+Stats temaları:
+- github-readme-stats & streak: theme=tokyonight
+- activity graph: theme=tokyo-night
+-->
