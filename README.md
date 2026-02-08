@@ -1,86 +1,125 @@
-<!-- ================= TITLE SECTION ================= -->
-<h1 align="center">Hi 👋, I'm Umud Huseynov</h1>
-<h3 align="center">AI-Driven Software Developer | Full‑Stack Developer</h3>
+<!-- =========================================
+  UMUD HUSEYNOV — AI‑Driven Software Developer
+  Senior‑feel | Minimal | CV‑aligned
+  Palette: choose Option A or Option B in the section below
+========================================= -->
+
+<h1 align="center">Umud Huseynov</h1>
+<h3 align="center">AI‑Driven Software Developer · Full‑Stack (C#/.NET, React) · Ops & Customer Excellence</h3>
 
 <p align="center">
-  <b>Passionate about building clean, scalable and intelligent solutions.</b><br>
-  Specialized in Web Development, .NET, Cloud & AI tools.
+  <a href="mailto:ganirarh@code.edu.az">Email</a> ·
+  <a href="https://x.com/Umud_678">X (Twitter)</a> ·
+  <a href="https://github.com/umud-678">GitHub</a>
 </p>
 
 ---
 
-<!-- ================= ABOUT ME SECTION ================= -->
-## 👨‍💻 About Me
+### 🧭 Professional Summary
+Result‑driven developer with a strong background in **international logistics, cross‑border delivery support** və **customer operations**. Hazırda **Full‑Stack Development** və **AI‑based software** üzərində fokuslanıram. Məqsədim: **təmiz arxitektura**, **ölçəklənə bilən sistemlər** və **AI ilə gücləndirilmiş iş axınları** qurmaq.
 
-I'm a dedicated Software Developer focused on building efficient, well‑structured and modern applications.  
-I combine **AI tools** with strong **software engineering skills** to improve productivity, code quality and development speed.
-
-- 🚀 Interested in AI‑powered development systems  
-- 💡 Experience with both UI and backend development  
-- 🧠 Actively exploring LLMs, automation & intelligent agents  
-- 🎯 Continuous learner — always improving and building  
+- Built for clarity: clean code, predictable releases, measurable impact  
+- Domain strengths: support operations, service excellence, process optimization  
+- Current focus: .NET + React, RESTful APIs, automation with LLMs & agents
 
 ---
 
-<!-- ================= SKILLS SECTION ================= -->
-## 🛠 Tech Stack
+## 🎨 Palette Seçimi (birini saxla)
 
-### 🚀 Languages & Frameworks
-<p>
-  <img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,cs,dotnet" />
-</p>
+<!-- Option A — Graphite & Azure (Dark, enterprise feel) -->
+<!-- Stats/graphs theme: 'github_dark_dimmed' / 'prussian' uyğun gəlir -->
 
-### 🧰 Tools & Technologies  
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,mongodb,sqlserver" />
-</p>
+<!-- Option B — Sandstone & Emerald (Warm, modern) -->
+<!-- Stats/graphs theme: 'gruvbox' / 'calm' uyğun gəlir -->
 
-### 🤖 AI & Productivity Tools  
-<p>
-  <img src="https://skillicons.dev/icons?i=ai" />
-  <img height="48" src="https://upload.wikimedia.org/wikipedia/commons/0/04/GitHub_Copilot_logo.svg"/>
-  <img height="48" src="https://avatars.githubusercontent.com/u/16943930?s=200&v=4"/>
-</p>
+> *README-də aşağıdakı Stats hissəsində uyğun **theme** linkini aktiv saxlayacaqsan.*
 
 ---
 
-<!-- ================= SOCIALS ================= -->
-## 🌐 Connect With Me
+## 🛠 Core Stack
 
-<p>
-  <a href="https://x.com/Umud_678"><img src="https://skillicons.dev/icons?i=twitter" /></a>
-  <a href="mailto:ganirarh@code.edu.az"><img src="https://skillicons.dev/icons?i=gmail" /></a>
-  <a href="#"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
+**Languages:** C#, JavaScript/TypeScript, SQL  
+**Back‑end:** ASP.NET Core, Entity Framework Core, REST APIs  
+**Front‑end:** React, Vite, Tailwind (və ya SCSS)  
+**Data & Storage:** SQL Server, MongoDB  
+**DevOps & Tools:** Docker, Git/GitHub, CI/CD (GitHub Actions), Postman  
+**AI & Productivity:** OpenAI, GitHub Copilot, Claude (prompting, code‑assist, automation)
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,tailwind,html,css,nodejs,express,postgres,mongodb,sqlserver,docker,git,github" />
 </p>
 
 ---
 
-<!-- ================= STATS ================= -->
-## 📊 GitHub Stats
+## 🧩 Capabilities (Senior Feel)
+- **Architecture & Quality:** SOLID, separation of concerns, clean layering, test‑friendly design
+- **Reliability:** meaningful logging, metrics, simple rollback strategies
+- **Performance:** query optimization, caching, N+1 avoidance, async I/O
+- **Ops Mindset:** support‑first thinking, SLO/SLI anlayışı, incident runbooks, RCA yazımı
+- **AI in Delivery:** code‑review prompts, test generation, doc drafting, ops automation
+
+---
+
+## 🗺️ Experience Highlights (CV‑aligned)
+- **Cross‑Border Delivery / Customer Support** — process optimization, SLA‑minded ünsiyyət, eskalasiya idarəetməsi  
+- **International Logistics & Operations** — end‑to‑end koordinasiya, status izləmə, risk və gecikmə idarəetməsi  
+- **Team & Stakeholder Collaboration** — guide‑lar, standartlar, dəqiq yazışma və hesabat
+
+> Detallı CV: (əlavə etmək istəyirsənsə) `docs/CV.pdf` faylına link verə bilərik.
+
+---
+
+## 🚀 Selected Projects
+> *Real və ya tədris layihələrini aşağıdakı formatda doldura bilərik.*
+
+**1) Smart Delivery Console** — *ops dashboard for cross‑border shipments*  
+Stack: ASP.NET Core, React, SQL Server, Docker  
+Impact: SLA görünürlüğü, exception monitoring, audit‑trail; ops vaxtına **↓30–40%** (placeholder)
+
+**2) AI‑assisted Ticket Triage** — *support workflow automation*  
+Stack: .NET minimal APIs, OpenAI, background jobs  
+Impact: sorğuların ilkin təsnifatı, cavab şablonları, responce time **↓25%** (placeholder)
+
+**3) Clean Architecture Starter** — *production‑ready web API skeleton*  
+Stack: ASP.NET Core + EF Core, Serilog, Docker, GitHub Actions  
+Impact: sürətli bootstrap, vahid kod standarları
+
+---
+
+## 🔎 What I’m Working On
+- Learning path: **.NET + React** advanced patterns, **EF Core performance**, **CI/CD** sərtləşdirilməsi  
+- AI usage: test‑case & doc generation, code‑reviews, prompt‑design for reliability
+
+---
+
+## 📊 Stats (palitranı uyğun seç)
+<p align="center">
+  <!-- Option A (Graphite & Azure) -->
+  <img src="https://github-readme-stats.vercel.app/api?username=umud-678&show_icons=true&theme=github_dark_dimmed&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=github_dark_dimmed" />
+</p>
+
+<!-- Alternative: Option B (Sandstone & Emerald)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=umud-678&show_icons=true&theme=gruvbox&hide_title=false" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=gruvbox" />
+</p> -->
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umud-678&theme=tokyonight&show_icons=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=tokyonight" height="160"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=umud-678&theme=tokyonight" height="160"/>
+  <img src="https://streak-stats.demolab.com/?user=umud-678&theme=github-dark-blue" />
 </p>
 
 ---
 
-<!-- ================= ACTIVITY GRAPH ================= -->
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=umud-678&theme=tokyo-night"/>
-</p>
+## 🗂️ Learning & Certifications
+- Code Academy — Full‑Stack Development & AI‑based Software (in progress)
+- Domain: Customer Service Excellence, Operations, Process Improvement
 
 ---
 
-<!-- ================= FOOTER ================= -->
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=umud-678&icon=0&color=6" />
-</p>
-``
+## 🤝 Let’s Collaborate
+- Maraqlı domenlər: logistics tech, support tooling, internal platforms, agentic automations  
+- Mənə yaz: <a href="mailto:ganirarh@code.edu.az">ganirarh@code.edu.az</a> · <a href="https://x.com/Umud_678">X/Twitter</a>
 
+<!-- Optional – minimalist counter -->
+<!-- <p align="center"><img src="https://visitcount.itsvg.in/api?id=umud-678&icon=0&color=6"/></p> -->
