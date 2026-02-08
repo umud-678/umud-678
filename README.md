@@ -1,4 +1,5 @@
-# 💫 About Me:
+  <h1 align="center">Hi 👋, I'm Umud</h1>
+
 I am a motivated and passionate software developer who is constantly learning and improving my skills. I enjoy building clean, efficient, and user-friendly applications.<br><br>I have experience with both frontend and backend technologies. I work with HTML, CSS, and JavaScript to create responsive user interfaces, and I use C#, ASP.NET, and SQL for backend development. I also use Git and GitHub for version control and collaboration.<br><br>Additionally, I am familiar with modern tools and technologies such as Docker and GitHub Copilot, and I actively explore AI tools like OpenAI and Claude to improve productivity and problem-solving.<br><br>I am always open to learning new technologies, improving my coding skills, and working on meaningful projects.
 
 
@@ -21,7 +22,6 @@ I am a motivated and passionate software developer who is constantly learning an
 
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># ortoniKC
-<h1 align="center">Hi 👋, I'm Umud</h1>
 <h3 align="center">Full Stack Developer | React & JavaScript Enthusiast</h3>
 
 ---
