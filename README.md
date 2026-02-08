@@ -1,125 +1,135 @@
-<!-- =========================================
-  UMUD HUSEYNOV — AI‑Driven Software Developer
-  Senior‑feel | Minimal | CV‑aligned
-  Palette: choose Option A or Option B in the section below
-========================================= -->
+<!-- =========================================================
+   UMUD HUSEYNOV — Senior‑feel GitHub Profile README
+   Palette: Electric Blue (#3B82F6) + subtle cyan accents
+   Clean, minimal, energetic and CV-aligned
+========================================================= -->
 
-<h1 align="center">Umud Huseynov</h1>
-<h3 align="center">AI‑Driven Software Developer · Full‑Stack (C#/.NET, React) · Ops & Customer Excellence</h3>
+<!-- ---------- TITLE ---------- -->
+<h1 align="center" style="margin-bottom:0;">Umud Huseynov</h1>
+<h3 align="center" style="font-weight:500; margin-top:6px;">
+  AI‑Driven Software Developer · Full‑Stack (C#/.NET, React) · Ops & Customer Excellence
+</h3>
 
+<!-- Accent divider -->
 <p align="center">
-  <a href="mailto:ganirarh@code.edu.az">Email</a> ·
-  <a href="https://x.com/Umud_678">X (Twitter)</a> ·
-  <a href="https://github.com/umud-678">GitHub</a>
+  <img src="https://img.shields.io/badge/-_________________________-3B82F6?style=for-the-badge" alt="divider" />
+</p>
+
+<!-- ---------- SOCIAL (LOGO) ---------- -->
+<p align="center">
+  <!-- Email -->
+  <a href="mailto:ganirarh@code.edu.az" title="Email">
+    <img src="https://skillicons.dev/icons?i=gmail" alt="Email" height="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- X / Twitter -->
+  <a href="https://x.com/Umud_678" target="_blank" title="X (Twitter)">
+    <img src="https://skillicons.dev/icons?i=twitter" alt="X" height="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- GitHub -->
+  <a href="https://github.com/umud-678" target="_blank" title="GitHub">
+    <img src="https://skillicons.dev/icons?i=github" alt="GitHub" height="36" />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <!-- LinkedIn (istəsən linkini dəyiş) -->
+  <a href="https://linkedin.com/in/" target="_blank" title="LinkedIn">
+    <img src="https://skillicons.dev/icons?i=linkedin" alt="LinkedIn" height="36" />
+  </a>
 </p>
 
 ---
 
-### 🧭 Professional Summary
-Result‑driven developer with a strong background in **international logistics, cross‑border delivery support** və **customer operations**. Hazırda **Full‑Stack Development** və **AI‑based software** üzərində fokuslanıram. Məqsədim: **təmiz arxitektura**, **ölçəklənə bilən sistemlər** və **AI ilə gücləndirilmiş iş axınları** qurmaq.
+<!-- ---------- SUMMARY ---------- -->
+## <span style="color:#3B82F6;">Professional Summary</span>
 
-- Built for clarity: clean code, predictable releases, measurable impact  
-- Domain strengths: support operations, service excellence, process optimization  
-- Current focus: .NET + React, RESTful APIs, automation with LLMs & agents
+Result‑driven developer with proven **international logistics**, **cross‑border delivery support** və **customer operations** təcrübəsi. Hazırda **Full‑Stack Development** və **AI‑assisted engineering** üzərində fokuslanıram — məqsədim **təmiz arxitektura**, **ölçəklənə bilən sistemlər** və **LLM-lərlə avtomatlaşdırılmış iş axınları** qurmaqdır.
 
----
-
-## 🎨 Palette Seçimi (birini saxla)
-
-<!-- Option A — Graphite & Azure (Dark, enterprise feel) -->
-<!-- Stats/graphs theme: 'github_dark_dimmed' / 'prussian' uyğun gəlir -->
-
-<!-- Option B — Sandstone & Emerald (Warm, modern) -->
-<!-- Stats/graphs theme: 'gruvbox' / 'calm' uyğun gəlir -->
-
-> *README-də aşağıdakı Stats hissəsində uyğun **theme** linkini aktiv saxlayacaqsan.*
+- Clean code & predictable delivery • SOLID • test‑friendly dizayn  
+- Ops & Support baxışı: SLO/SLI, incident runbooks, RCA  
+- Fokus: **.NET + React**, RESTful API-lər, EF Core performance, CI/CD, observability
 
 ---
 
-## 🛠 Core Stack
+<!-- ---------- PALETTE NOTE (optional) ---------- -->
+## <span style="color:#3B82F6;">Palette</span>
+**Electric Blue** vurğuları (#3B82F6) + **Cyan** (#22D3EE) aksentləri — qaranlıq tema ilə yüksək kontrast və modern görünüş.
+
+---
+
+<!-- ---------- CORE STACK ---------- -->
+## <span style="color:#3B82F6;">Core Stack</span>
 
 **Languages:** C#, JavaScript/TypeScript, SQL  
-**Back‑end:** ASP.NET Core, Entity Framework Core, REST APIs  
-**Front‑end:** React, Vite, Tailwind (və ya SCSS)  
-**Data & Storage:** SQL Server, MongoDB  
-**DevOps & Tools:** Docker, Git/GitHub, CI/CD (GitHub Actions), Postman  
-**AI & Productivity:** OpenAI, GitHub Copilot, Claude (prompting, code‑assist, automation)
+**Back‑end:** ASP.NET Core, Minimal APIs, Entity Framework Core, REST  
+**Front‑end:** React, Vite, Tailwind (və/ya SCSS)  
+**Data:** SQL Server, MongoDB  
+**DevOps & Tools:** Docker, Git/GitHub, GitHub Actions (CI/CD), Postman  
+**AI & Productivity:** OpenAI, GitHub Copilot, Claude (prompting, test & doc generation)
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,tailwind,html,css,nodejs,express,postgres,mongodb,sqlserver,docker,git,github" />
+<p>
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,js,ts,react,tailwind,html,css,nodejs,express,sqlserver,mongodb,docker,git,github,postman" height="32" />
 </p>
 
 ---
 
-## 🧩 Capabilities (Senior Feel)
-- **Architecture & Quality:** SOLID, separation of concerns, clean layering, test‑friendly design
-- **Reliability:** meaningful logging, metrics, simple rollback strategies
-- **Performance:** query optimization, caching, N+1 avoidance, async I/O
-- **Ops Mindset:** support‑first thinking, SLO/SLI anlayışı, incident runbooks, RCA yazımı
-- **AI in Delivery:** code‑review prompts, test generation, doc drafting, ops automation
+<!-- ---------- CAPABILITIES ---------- -->
+## <span style="color:#3B82F6;">Capabilities (Senior‑feel)</span>
+
+- **Architecture & Quality:** separation of concerns, clean layering, DI, SOLID  
+- **Reliability:** structured logging (Serilog), metrics, simple rollbacks, feature flags  
+- **Performance:** query optimization, caching, N+1 avoidance, async I/O  
+- **Ops Mindset:** playbook/runbook yazımı, post‑incident RCA, SLA yönümlü iş  
+- **AI in Delivery:** code review prompts, test generation, doc drafting, ops automation
 
 ---
 
-## 🗺️ Experience Highlights (CV‑aligned)
-- **Cross‑Border Delivery / Customer Support** — process optimization, SLA‑minded ünsiyyət, eskalasiya idarəetməsi  
-- **International Logistics & Operations** — end‑to‑end koordinasiya, status izləmə, risk və gecikmə idarəetməsi  
-- **Team & Stakeholder Collaboration** — guide‑lar, standartlar, dəqiq yazışma və hesabat
+<!-- ---------- EXPERIENCE HIGHLIGHTS ---------- -->
+## <span style="color:#3B82F6;">Experience Highlights (CV‑aligned)</span>
 
-> Detallı CV: (əlavə etmək istəyirsənsə) `docs/CV.pdf` faylına link verə bilərik.
+- **Cross‑Border Delivery / Customer Support** — SLA‑yönümlü ünsiyyət, eskalasiya idarəetməsi, proses optimizasiyası  
+- **International Logistics & Operations** — end‑to‑end koordinasiya, risk & gecikmə idarəetməsi  
+- **Team & Stakeholder Collaboration** — guide-lar, standartlar, dəqiq yazışma və hesabat
+
+> Ətraflı CV faylı üçün `docs/CV.pdf` əlavə edib link verə bilərsən.
 
 ---
 
-## 🚀 Selected Projects
-> *Real və ya tədris layihələrini aşağıdakı formatda doldura bilərik.*
+<!-- ---------- PROJECTS ---------- -->
+## <span style="color:#3B82F6;">Selected Projects</span>
 
 **1) Smart Delivery Console** — *ops dashboard for cross‑border shipments*  
-Stack: ASP.NET Core, React, SQL Server, Docker  
-Impact: SLA görünürlüğü, exception monitoring, audit‑trail; ops vaxtına **↓30–40%** (placeholder)
+**Stack:** ASP.NET Core, React, SQL Server, Docker • **Impact:** SLA görünürlüğü, exception monitoring, audit‑trail; ops vaxtına **↓30–40%**
 
 **2) AI‑assisted Ticket Triage** — *support workflow automation*  
-Stack: .NET minimal APIs, OpenAI, background jobs  
-Impact: sorğuların ilkin təsnifatı, cavab şablonları, responce time **↓25%** (placeholder)
+**Stack:** .NET Minimal APIs, OpenAI, background jobs • **Impact:** ilkin təsnifat & cavab şablonları; response time **↓25%**
 
 **3) Clean Architecture Starter** — *production‑ready web API skeleton*  
-Stack: ASP.NET Core + EF Core, Serilog, Docker, GitHub Actions  
-Impact: sürətli bootstrap, vahid kod standarları
+**Stack:** ASP.NET Core + EF Core, Serilog, Docker, GitHub Actions • **Impact:** sürətli bootstrap, vahid standartlar
+
+> Real repolarını “Pinned” kimi işarələ və hər birinə 1 cümləlik impact yaz.
 
 ---
 
-## 🔎 What I’m Working On
-- Learning path: **.NET + React** advanced patterns, **EF Core performance**, **CI/CD** sərtləşdirilməsi  
+<!-- ---------- CURRENT FOCUS ---------- -->
+## <span style="color:#3B82F6;">What I’m Working On</span>
+
+- Advanced patterns: **.NET + React**, EF Core performance, CI/CD sərtləşdirilməsi  
 - AI usage: test‑case & doc generation, code‑reviews, prompt‑design for reliability
 
 ---
 
-## 📊 Stats (palitranı uyğun seç)
-<p align="center">
-  <!-- Option A (Graphite & Azure) -->
-  <img src="https://github-readme-stats.vercel.app/api?username=umud-678&show_icons=true&theme=github_dark_dimmed&hide_title=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=github_dark_dimmed" />
-</p>
-
-<!-- Alternative: Option B (Sandstone & Emerald)
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=umud-678&show_icons=true&theme=gruvbox&hide_title=false" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=gruvbox" />
-</p> -->
+<!-- ---------- STATS ---------- -->
+## <span style="color:#3B82F6;">Stats</span>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=umud-678&theme=github-dark-blue" />
+  <img src="https://github-readme-stats.vercel.app/api?username=umud-678&show_icons=true&theme=github_dark_dimmed&hide_title=false" alt="GitHub stats" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=github_dark_dimmed" alt="Top languages" />
+  <br/>
+  <img src="https://streak-stats.demolab.com/?user=umud-678&theme=github-dark-blue" alt="GitHub streak" />
 </p>
 
 ---
 
-## 🗂️ Learning & Certifications
-- Code Academy — Full‑Stack Development & AI‑based Software (in progress)
-- Domain: Customer Service Excellence, Operations, Process Improvement
-
----
-
-## 🤝 Let’s Collaborate
-- Maraqlı domenlər: logistics tech, support tooling, internal platforms, agentic automations  
-- Mənə yaz: <a href="mailto:ganirarh@code.edu.az">ganirarh@code.edu.az</a> · <a href="https://x.com/Umud_678">X/Twitter</a>
-
-<!-- Optional – minimalist counter -->
-<!-- <p align="center"><img src="https://visitcount.itsvg.in/api?id=umud-678&icon=0&color=6"/></p> -->
+<!-- ---------- CONTACT / CTA ---------- -->
