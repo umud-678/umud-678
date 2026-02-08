@@ -3,9 +3,6 @@ I am a motivated and passionate software developer who is constantly learning an
 
 ## 📈 Contribution Graph
 
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umud-678&theme=react-dark)
-
-
 ## 🎯 Fun Facts
 
 - ☕ Code + coffee = happiness
@@ -15,6 +12,7 @@ I am a motivated and passionate software developer who is constantly learning an
 
 
 
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=umud-678&theme=react-dark)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --># ortoniKC
 <h1 align="center">Hi 👋, I'm Umud</h1>
@@ -48,5 +46,5 @@ I am a motivated and passionate software developer who is constantly learning an
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&theme=dark&hide_border=false&layout=compact)
 
 ---
-
 [![](https://visitcount.itsvg.in/api?id=umud-678&icon=0&color=0)](https://visitcount.itsvg.in)
+
