@@ -1,27 +1,35 @@
-<<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=UMUD+HUSEYNOV;AI-Driven+Software+Developer;Full-Stack+(.NET+%26+React);Ops+%26+Customer+Excellence" alt="Typing SVG" />
+<div align="center">
+  <img src="https://capsule-render.vercel.app/render?type=rect&color=3B82F6&height=180&section=header&text=UMUD%20HUSEYNOV&fontSize=70&animation=fadeIn&fontAlignY=35&desc=AI%20%7C%20Full-Stack%20%7C%20Operations&descSize=20&descAlignY=60" width="100%" />
+
+  <br/>
+
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=500&color=22D3EE&center=true&vCenter=true&width=500&lines=Building+Scalable+Systems;Architecting+Clean+Code;Automating+with+LLMs;Optimizing+Operations" alt="Typing SVG" />
 
   <p align="center">
-    <kbd> <b>C# / .NET Core</b> </kbd> • <kbd> <b>React / TS</b> </kbd> • <kbd> <b>AI Engineering</b> </kbd>
+    <img src="https://img.shields.io/badge/Focus-Full--Stack%20Engineering-3B82F6?style=for-the-badge" />
+    <img src="https://img.shields.io/badge/Status-Open%20to%20Collaboration-success?style=for-the-badge" />
   </p>
 
-  <br/>
-
-  <a href="mailto:ganirarh@code.edu.az">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/umud-huseynov">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://x.com/Umud_678">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
-  </a>
-
-  <br/>
-  <br/>
+  <p align="center">
+    <a href="mailto:ganirarh@code.edu.az"><img src="https://skillicons.dev/icons?i=gmail" height="45" /></a>
+    &nbsp;
+    <a href="https://linkedin.com/in/umud-huseynov"><img src="https://skillicons.dev/icons?i=linkedin" height="45" /></a>
+    &nbsp;
+    <a href="https://x.com/Umud_678"><img src="https://skillicons.dev/icons?i=twitter" height="45" /></a>
+    &nbsp;
+    <a href="https://github.com/umud-678"><img src="https://skillicons.dev/icons?i=github" height="45" /></a>
+  </p>
 
   <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
+
+## 👤 About Me
+
+Mən **əməliyyatların çevikliyi** ilə **kodun təmizliyini** birləşdirən proqram təminatı mühəndisiyəm. Logistika və beynəlxalq çatdırılma sahəsindəki geniş təcrübəm mənə sadəcə funksional proqram yox, həm də **biznes ehtiyaclarına cavab verən, dayanıqlı həllər** qurmağı öyrədib.
+
+* 🚀 **Nə edirəm?** Mürəkkəb backend sistemlərini **.NET** ilə qurur, müasir frontendi **React** ilə canlandırır və AI agentləri vasitəsilə rutin işləri avtomatlaşdırıram.
+* 🧠 **Fəlsəfəm:** Kod mütləq "oxunaqlı" olmalıdır (Clean Code), lakin sistem həm də "müşahidə edilə bilən" (Observable) olmalıdır.
+* 🎯 **Hədəfim:** Texnologiyanın köməyi ilə insan əməyini minimuma endirən ağıllı və avtonom sistemlər yaratmaq.
 
 ---
 
@@ -44,11 +52,11 @@
     <td width="50%" valign="top">
       <h4>🗄️ Data & DevOps</h4>
       <img src="https://skillicons.dev/icons?i=sqlserver,mongodb,docker,githubactions,git" />
-      <br/><em>Relational & NoSQL, CI/CD Pipelines</em>
+      <br/><em>Relational & NoSQL, CI/CD Pipelines, Dockerization</em>
     </td>
     <td width="50%" valign="top">
       <h4>🤖 AI & Tooling</h4>
-      <img src="https://skillicons.dev/icons?i=postman,vscode,github" />
+      <img src="https://skillicons.dev/icons?i=postman,vscode,github,figma" />
       <br/><em>OpenAI API, GitHub Copilot, Prompt Engineering</em>
     </td>
   </tr>
@@ -58,13 +66,13 @@
 
 ## 🏗 Selected Projects
 
-> **[Smart Delivery Console]** – Logistika əməliyyatları üçün dashboard.
-> - **Impact:** Proseslərin izlənilməsini avtomatlaşdıraraq əməliyyat vaxtını **40% azaltdı**.
-> - **Stack:** .NET Core, React, SQL Server, Docker.
+> **[Smart Delivery Console]** – Logistika əməliyyatları üçün idarəetmə paneli.
+> * **Impact:** Proseslərin izlənilməsini avtomatlaşdıraraq əməliyyat vaxtını **40% azaltdı**.
+> * **Stack:** .NET Core, React, SQL Server, Docker.
 
-> **[AI-Ticket Triage]** – Support biletlərinin AI ilə təsnifatı.
-> - **Impact:** Gələn sorğuların ilkin cavablandırma sürətini **25% artırdı**.
-> - **Stack:** Minimal APIs, OpenAI API, Redis.
+> **[AI-Ticket Triage]** – Support biletlərinin süni intellekt ilə təsnifatı.
+> * **Impact:** Gələn sorğuların ilkin cavablandırma sürətini **25% artırdı**.
+> * **Stack:** Minimal APIs, OpenAI API, Redis.
 
 ---
 
@@ -73,7 +81,7 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=umud-678&show_icons=true&theme=tokyonight&border_color=3B82F6&hide_border=false" height="170" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=umud-678&layout=compact&theme=tokyonight&border_color=3B82F6&hide_border=false" height="170" />
-  <br/>
+  <br/><br/>
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=umud-678&theme=tokyo-night&area=true&color=3B82F6" width="100%" />
 </div>
 
@@ -83,9 +91,9 @@
 
 Mürəkkəb sistemlərin qurulması, logistika texnologiyaları və ya süni intellekt layihələri üçün əlaqə saxlaya bilərsiniz.
 
-- 💬 **Sual verin:** Proqram arxitekturası və ya Ops avtomatlaşdırması haqqında.
-- 📫 **Email:** [ganirarh@code.edu.az](mailto:ganirarh@code.edu.az)
-- ⚡ **Hədəf:** Həmişə daha təmiz, daha sürətli və daha ağıllı kod.
+* 💬 **Sual verin:** Proqram arxitekturası və ya Ops avtomatlaşdırması haqqında.
+* 📫 **Email:** [ganirarh@code.edu.az](mailto:ganirarh@code.edu.az)
+* ⚡ **Hədəf:** Həmişə daha təmiz, daha sürətli və daha ağıllı kod.
 
 <div align="right">
   <i>Son yenilənmə: Fevral 2026</i>
