@@ -1,23 +1,27 @@
-<div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=3B82F6&height=200&section=header&text=Umud%20Huseynov&fontSize=60&animation=fadeIn&fontAlignY=40" width="100%" />
+<<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=3B82F6&center=true&vCenter=true&width=600&lines=UMUD+HUSEYNOV;AI-Driven+Software+Developer;Full-Stack+(.NET+%26+React);Ops+%26+Customer+Excellence" alt="Typing SVG" />
 
-  ### 🚀 AI-Driven Software Developer | Full-Stack (.NET & React)
-  **Ops & Customer Excellence Enthusiast**
+  <p align="center">
+    <kbd> <b>C# / .NET Core</b> </kbd> • <kbd> <b>React / TS</b> </kbd> • <kbd> <b>AI Engineering</b> </kbd>
+  </p>
 
-  [![Email](https://img.shields.io/badge/Email-ganirarh%40code.edu.az-3B82F6?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ganirarh@code.edu.az)
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/umud-huseynov) 
-  [![Twitter](https://img.shields.io/badge/X_Twitter-Follow-000000?style=for-the-badge&logo=x)](https://x.com/Umud_678)
+  <br/>
 
-  <img src="https://img.shields.io/badge/-____________________________________________________________________-3B82F6?style=flat" width="100%" />
+  <a href="mailto:ganirarh@code.edu.az">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/umud-huseynov">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/Umud_678">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+
+  <br/>
+  <br/>
+
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/aqua.png" width="100%" />
 </div>
-
-## ⚡ Professional Summary
-
-Beynəlxalq logistika və müştəri əməliyyatları (Ops) təcrübəmi proqram təminatı mühəndisliyi ilə birləşdirirəm. Fokusum **Clean Architecture**, yüksək məhsuldarlıqlı **.NET API-lər** və **AI-integrated** iş axınları qurmaqdır.
-
-- **Quality First:** SOLID, Unit Testing və DRY prinsipləri ilə təmiz kod bazası.
-- **Ops Mindset:** Yalnız kod yazmıram, həm də sistemin dayanıqlığını (SLO/SLI) və observability (Serilog) tərəfini düşünürəm.
-- **AI-Assisted:** LLM-ləri (OpenAI, Claude) mühəndislik prosesinə inteqrasiya edərək sürətli çatdırılma.
 
 ---
 
